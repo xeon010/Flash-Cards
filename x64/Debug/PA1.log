@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\troym\Desktop\Current Classes\CPTS-223\PA's\PA1\PA1\Game.hpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+  main.cpp
+C:\Users\troym\Desktop\Current Classes\CPTS-223\PA's\PA1\PA1\Game.hpp(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  PA1.vcxproj -> C:\Users\troym\Desktop\Current Classes\CPTS-223\PA's\PA1\x64\Debug\PA1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

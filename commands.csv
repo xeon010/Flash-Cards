@@ -1,0 +1,26 @@
+cat,"Displays the contents of a file",4
+ls,"Lists files and directories in the current folder",2
+kill,"Terminates a process by PID",3
+ps,"Shows current processes",3
+date,"Displays or sets the system date and time",2
+touch,"Creates an empty file or updates its timestamp",4
+find,"Searches for files and directories",4
+top,"Displays running processes",3
+uname,"Displays system information",2
+head,"Displays the first few lines of a file",4
+new,"bruh",10
+chmod,"Changes file or directory permissions",4
+rmdir,"Removes an empty directory",3
+pwd,"Prints the current working directory",2
+tail,"Displays the last few lines of a file",4
+man,"Shows the manual for a command",3
+less,"Displays file contents one page at a time",4
+cp,"Copies files or directories",3
+mkdir,"Creates a new directory",3
+grep,"Searches for text within files",4
+echo,"Displays a line of text",2
+who,"Displays currently logged-in users",2
+cd,"Changes the current working directory",2
+mv,"Moves or renames files or directories",3
+chown,"Changes file or directory ownership",4
+rm,"Removes files or directories",3
